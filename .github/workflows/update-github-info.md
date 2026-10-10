@@ -39,3 +39,4 @@ Refresh Mona's GitHub information page with useful, current guidance from offici
 4. Update only `site/content/github-info.md`. Keep summaries short, practical, useful to developers, and attribute each Blog or Changelog item to its source.
 5. If the sources do not support a meaningful update, leave the file unchanged and do not create a pull request.
 6. Otherwise, use the `create-pull-request` safe output to open one pull request containing the update for Mona to review. Do not write directly to the default branch.
+7. Do not compile agentic workflow files or generate `.lock.yml` files.
